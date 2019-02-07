@@ -1,4 +1,6 @@
 # swagger-samples
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Frevfactory%2Fswagger-samples.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Frevfactory%2Fswagger-samples?ref=badge_shield)
+
 
 The goal of Swagger™ is to define a standard, language-agnostic interface to REST APIs which allows both humans and 
 computers to discover and understand the capabilities of the service without access to source code, documentation, or 
@@ -16,3 +18,7 @@ the java library. Each sample contains a README file with details how to run it 
 
 ---
 <img src="http://swagger.io/wp-content/uploads/2016/02/logo.jpg"/>
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Frevfactory%2Fswagger-samples.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Frevfactory%2Fswagger-samples?ref=badge_large)
